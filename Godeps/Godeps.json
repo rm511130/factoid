@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/user/factoid",
+	"ImportPath": "github.com/rm511130/factoid",
 	"GoVersion": "go1.5.1",
 	"Deps": [
 		{

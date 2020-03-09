@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/user/factoid/Godeps/_workspace/src/github.com/go-martini/martini"
+	"github.com/rm511130/factoid/Godeps/_workspace/src/github.com/go-martini/martini"
 	"strconv"
 )
 
